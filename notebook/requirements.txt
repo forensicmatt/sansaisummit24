@@ -1,0 +1,9 @@
+ujson
+evtx
+jmespath
+openai
+scikit-learn
+plotly
+nbformat
+dirtyjson
+xlsxwriter
